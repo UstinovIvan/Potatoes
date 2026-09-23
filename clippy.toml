@@ -1,0 +1,5 @@
+check-inconsistent-struct-field-initializers = true
+lint-commented-code = true
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-indexing-slicing-in-tests = true
