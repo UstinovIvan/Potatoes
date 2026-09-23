@@ -1,2 +1,2 @@
-﻿#![deny(missing_docs)]
+#![deny(missing_docs)]
 //! Stub doc
